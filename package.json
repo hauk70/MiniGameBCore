@@ -1,0 +1,12 @@
+{
+    "name": "com.yourname.packagename",
+    "version": "0.1.0",
+    "displayName": "MinigameB",
+    "description": "Описание вашего пакета",
+    "unity": "2022.3",
+    "author": {
+        "name": "Your Name",
+        "email": "youremail@example.com",
+        "url": "https://yourwebsite.com"
+    }
+}

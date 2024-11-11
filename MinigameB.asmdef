@@ -1,0 +1,16 @@
+{
+    "name": "MinigameB",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cfbac26c4be97440d8f13a3778179607"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
